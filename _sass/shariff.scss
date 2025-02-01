@@ -1,0 +1,12 @@
+
+.post-shariff-wrapper {
+  display: flex;
+  flex-direction: row;
+  max-width: 1450px;
+  margin: 0 auto;
+
+  .shariff {
+    flex-grow: 0;
+    margin: 25px;
+  }
+}

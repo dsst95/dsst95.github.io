@@ -1,0 +1,27 @@
+@use "variables";
+
+body {
+  margin: 0;
+  padding-top: variables.$header-height + variables.$body-padding;
+  padding-right: variables.$body-padding;
+  padding-left: variables.$body-padding;
+  font-family: variables.$base-font;
+}
+
+.legal-notice, .privacy {
+  h1 {
+    margin: 0 0 5px;
+  }
+
+  h2 {
+    margin: 0 0 10px;
+  }
+
+  p {
+    margin: 0 0 15px;
+
+    &.new_section {
+      margin-bottom: 25px;
+    }
+  }
+}

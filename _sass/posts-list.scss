@@ -1,0 +1,82 @@
+@use "variables";
+
+.posts-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: space-around;
+  justify-content: space-around;
+  padding: 15px 0px 15px 0px;
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .post {
+    display: flex;
+    flex-direction: column;
+    margin: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 500px;
+    height: 500px;
+
+    &:hover {
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    }
+
+    .post-figure {
+      overflow: hidden;
+      flex-shrink: 0;
+    }
+
+    .post-title {
+      flex-grow: 1;
+      margin: 0 1rem;
+      font-size: 1.2rem;
+      font-weight: 600;
+      margin-top: 0.4rem;
+      margin-bottom: 0.2rem;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      display: block;
+      max-height: 3em;
+      line-height: 1.5em;
+      display: -webkit-box;
+      -webkit-box-orient: vertical;
+      -webkit-line-clamp: 2;
+    }
+
+    .post-footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: nowrap;
+      flex-grow: 0;
+      color: variables.$other-color-1;
+      margin: 0 1rem .5rem 1rem;
+
+      .post-author {
+        display: flex;
+        align-items: center;
+        flex-grow: 0.1;
+        flex-wrap: nowrap;
+        justify-content: space-between;
+      }
+    }
+
+    .post-text {
+      margin: 0 1rem 2rem 1rem;
+      font-size: 1rem;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      display: block;
+      line-height: 1.5em;
+      display: -webkit-box;
+      -webkit-box-orient: vertical;
+      -webkit-line-clamp: 4;
+      flex-grow: 1;
+    }
+  }
+}

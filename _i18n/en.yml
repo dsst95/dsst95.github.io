@@ -1,0 +1,12 @@
+common:
+  language: Language
+  name: Dennis Stumm
+  keywords: Software, Dennis, Stumm, Development, Programming
+
+pages:
+  about: About me
+  blog: Blog
+  contact: Contact
+  legal_notice: Legal Notice
+  privacy: Privacy Policy
+  projects: Projects

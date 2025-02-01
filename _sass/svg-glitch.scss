@@ -1,0 +1,59 @@
+@use "variables";
+@use "sass:math";
+
+@mixin svgGlitch($name, $intensity, $background, $width, $height, $on-hover: true) {
+  $steps: $intensity;
+  $height-without-pixel: math.div($height, $height * 0 + 1);
+
+  // Ensure the @keyframes are generated at the root level
+  @at-root {
+    // We need two different ones
+    @for $i from 1 through 2 {
+      @keyframes #{$name}-anim-#{$i} {
+        @for $i from 0 through $steps {
+          #{math.percentage($i*calc(1/$steps))} {
+            clip: rect(
+              (math.random($height-without-pixel))+px,
+              $width,
+              (math.random($height-without-pixel))+px,
+              0
+            );
+          }
+        }
+      }
+    }
+  }
+  
+  svg {
+    position: absolute;
+    background: $background;
+    width: $width;
+    height: $height;
+  }
+
+  svg:nth-child(2),
+  svg:nth-child(3) {
+    clip: rect(0, 0, 0, 0); 
+  }
+  @if $on-hover {
+    &:hover {
+      svg:nth-child(2) {
+        margin-left: -2 + px;
+        animation: #{$name}-anim-1 4s infinite linear alternate-reverse;
+      }
+      svg:nth-child(3) {
+        margin-left: 2 + px;
+        animation: #{$name}-anim-2 5s infinite linear alternate-reverse;
+      }
+    }
+  } @else {
+    svg:nth-child(2) {
+      margin-left: -2 + px;
+      animation: #{$name}-anim-1 4s infinite linear alternate-reverse;
+    }
+    svg:nth-child(3) {
+      margin-left: 2 + px;
+      animation: #{$name}-anim-2 5s infinite linear alternate-reverse;
+    }
+  }
+}

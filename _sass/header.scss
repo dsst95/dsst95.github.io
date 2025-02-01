@@ -1,0 +1,122 @@
+@use "sass:color";
+@use 'svg-glitch';
+@use "variables";
+
+header {
+  height: variables.$header-height;
+  background-color: variables.$secondary-color;
+  position: fixed;
+  display: flex;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 100;
+
+  a {
+    text-decoration: none;
+    color: variables.$tertiary-color;
+    vertical-align: top;
+    height: variables.$header-height;
+    line-height: variables.$header-height;
+    display: inline-block;
+    outline: none;
+  }
+
+  .logo-link {
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: variables.$body-padding;
+
+    $svg-height: calc(variables.$header-height / 3 * 2);
+    $svg-width: calc(6836 * (variables.$header-height / 3 * 2 * 100 / 512) / 100);
+
+    width: calc(#{$svg-width} + 2px);
+
+
+    .logo-wrapper {
+      display: inline-grid;
+
+
+      @include svg-glitch.svgGlitch('logo', 18, variables.$secondary-color, $svg-width, $svg-height);
+
+      & {
+        height: $svg-height;
+        width: calc(#{$svg-width} + 2px);
+      }
+
+      svg {
+        height: $svg-height;
+        width: $svg-width;
+      }
+    }
+
+    @media(max-width: 1250px) {
+      width: calc((512 * (#{variables.$header-height} / 3 * 2 * 100 / 512) / 100) + 2px);
+
+      .logo-wrapper {
+        width: calc((512 * (#{variables.$header-height} / 3 * 2 * 100 / 512) / 100) + 2px);
+
+        path:not(:first-child) {
+          display: none;
+        }
+      }
+    }
+  }
+
+  nav {
+    flex: 1;
+    padding-right: 50px;
+    text-align: right;
+
+    a {
+      margin-left: 50px;
+      font-size: 22px;
+      font-weight: 700;
+
+      &:hover {
+        color: color.adjust(variables.$primary-color, $lightness: 10%);
+      }
+
+      &.active {
+        border-bottom: 5px solid color.adjust(variables.$primary-color, $lightness: 10%);
+        height: variables.$header-height - 5px;
+        color: color.adjust(variables.$primary-color, $lightness: 10%);
+      }
+    }
+
+    .expand-menu-icon {
+      display: none;
+    }
+  }
+
+  @media(max-width: 760px) {
+    flex-direction: column;
+
+    nav {
+      padding-right: 0px;
+
+      &.responsive-visible {
+        a:not(.expand-menu-icon) {
+          display: block;
+          text-align: center;
+          background-color: variables.$secondary-color;
+        }
+      }
+
+      a {
+        margin-left: 0;
+        display: none;
+      }
+
+      .expand-menu-icon {
+        display: inline-block;
+        position: absolute;
+        right: 10px;
+        top: 0;
+      }
+    }
+  }
+}

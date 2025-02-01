@@ -1,0 +1,13 @@
+<footer>
+  <div class="copyright">© {% t common.name %}, {{ site.time | date: "%Y" }}</div>
+  <div class="pages">
+    <a href="{% if site.lang == site.default_lang %}/legal_notice{% else %}/{{ site.lang }}/legal_notice{% endif %}">{% t pages.legal_notice %}</a> |
+    <a href="{% if site.lang == site.default_lang %}/privacy{% else %}/{{ site.lang }}/privacy{% endif %}">{% t pages.privacy %}</a>
+  </div>
+  <div class="languages">
+    {% t common.language %}:
+    {% for language in site.languages %}
+      <a href="{% if language == site.default_lang %}{{ page.url }}{% else %}/{{ language }}{{ page.url }}{% endif %}">{{ site.languages_list[language] }}</a> |
+    {% endfor %}
+  </div>
+</footer>

@@ -1,0 +1,23 @@
+@use "variables";
+@use "base";
+@use "footer";
+@use "header";
+@use "not-found";
+@use "posts-list";
+@use "pagination";
+@use "shariff";
+
+:not(.not-found) > * > main {
+  max-width: 1600px;
+  width: 100%;
+  margin: 0 auto;
+
+  p {
+    text-align: justify;
+    line-height: 1.5;
+    hyphens: auto;
+    -ms-hyphens: auto;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+  }
+}

@@ -1,0 +1,50 @@
+@use "variables";
+
+footer {
+  height: calc((#{variables.$footer-height} / 5) * 4);
+  width: 100%;
+  border-top: variables.$footer-border solid variables.$other-color-2;
+  padding-top: calc(#{variables.$footer-height} / 5);
+  color: variables.$other-color-1;
+
+  .copyright, .pages, .languages {
+    line-height: 1.5;
+  }
+
+  .copyright, .pages {
+    float: left;
+  }
+
+  .pages {
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%);
+  }
+
+  .languages {
+    float: right;
+  }
+
+
+  @media(max-width: 925px) {
+    .pages, .copyright, .languages {
+      float: none;
+      text-align: center;
+    }
+
+    .pages {
+      position: initial;
+      transform: none;
+      left: 0;
+    }
+  }
+
+  a {
+    color: variables.$other-color-1;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}

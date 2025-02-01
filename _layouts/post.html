@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="{{ site.lang }}" prefix="og: http://ogp.me/ns#">
+<head>
+  {% include head.html %}
+  <link href="/assets/plugins/shariff/shariff.complete.css" rel="stylesheet">
+</head>
+<body>
+  {% include header.html %}
+  <div class="post-shariff-wrapper">
+    <div
+      class="shariff"
+      data-lang="{{ page.lang }}"
+      data-services="['facebook','linkedin','pocket','reddit','telegram','threema','vk','whatsapp','xing']"
+      data-button-style="icon"
+      data-orientation="vertical">
+    </div>
+    {% include main.html %}
+  </div>
+  {% include footer.html %}
+  <script src="/assets/plugins/shariff/shariff.complete.js"></script>
+</body>
+</html>

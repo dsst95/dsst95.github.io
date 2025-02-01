@@ -1,0 +1,28 @@
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-multiple-languages-plugin
+  - jekyll-sitemap
+  - jekyll-github-metadata
+  - jekyll-avatar
+
+languages: ["de", "ru", "en"]
+exclude_from_localizations: ["css", "robots.txt", "404.md"]
+baseurl: ""
+
+languages_list:
+  de: Deutsch
+  en: English
+  ru: Русский
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+
+projects:
+  - 
+  

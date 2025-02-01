@@ -1,0 +1,20 @@
+{
+  "name": "Dennis Stumm",
+  "short_name": "Dennis Stumm",
+  "icons": [
+    {
+      "src": "/favicons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#525252",
+  "background_color": "#525252",
+  "display": "standalone",
+  "start_url": "https://dsst95.github.io"
+}

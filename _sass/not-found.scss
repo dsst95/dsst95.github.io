@@ -1,0 +1,81 @@
+@use "variables";
+@use "svg-glitch";
+
+.not-found {
+  height: 100%;
+  width: 100%;
+
+  body {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+
+    main {
+      background-color: variables.$secondary-color;
+      height: 100%;
+      margin: 0;
+      width: 100%;
+      color: #FFFFFF;
+
+      a {
+        text-decoration: none;
+        outline: none;
+      }
+
+      > * > * {
+        margin-bottom: 20px;
+      }
+
+      .content-wrapper {
+        text-align: center;
+        position: relative;
+        top: 50%;
+        transform: translateY(-50%);
+        font-size: 28px;
+        display: flex;
+        flex-direction: column;
+
+        .logo-link {
+          position: relative;
+          overflow: hidden;
+          text-align: center;
+          left: 50%;
+          transform: translateX(-50%);
+
+          $svg-height: 80px;
+          $svg-width: calc(6836*($svg-height*100/512)/100);
+
+          width: calc(#{$svg-width} + 2px);
+
+          .logo-wrapper {
+            display: inline-grid;
+
+            @include svg-glitch.svgGlitch('logo', 18, variables.$secondary-color, $svg-width, $svg-height, false);
+
+            & {
+              height: $svg-height;
+              width: calc(#{$svg-width} + 2px);
+            }
+
+            svg {
+              height: $svg-height;
+              width: $svg-width;
+            }
+          }
+
+          @media(max-width: 1250px) {
+            width: calc((512 * (#{$svg-height} * 100 / 512) / 100) + 2px);
+
+            .logo-wrapper {
+              width: calc((512 * (#{$svg-height} * 100 / 512) / 100) + 2px);
+
+              path:not(:first-child) {
+                display: none;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
