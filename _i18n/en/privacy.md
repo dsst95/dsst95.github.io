@@ -1,39 +1,69 @@
-# Privacy Policy
-## Acquisition of general information
-When you access my website, information of general nature will be automatically recorded. These information (Server-Logfiles) may contain the type of the webbrowser, the domain name of the Internet Service Provider and similar. This is only information that isn't relating to your person. The informations are technically necessary, to provide the requested contents of the website correctly and will mandantorily accrue on the use of the Internet. Anonymous information of this kind I will statistically evaluate, to improve my website and the underlying technology.
+# Privacy policy
+In the following, I would like to explain to you how your data is processed by me.
 
-I am using according to the current state of the art encryption techniques (e.g. SSL) over HTTPS, to protect the security of your data during the delivery.
-{: .new_section}
+Responsible within the meaning of the GDPR is:  
+&#x44;&#x65;&#x6E;&#x6E;&#x69;&#x73;&#x20;&#x53;&#x74;&#x75;&#x6D;&#x6D;  
+&#xA;&#x50;&#x69;&#x72;&#x6D;&#x61;&#x73;&#x65;&#x6E;&#x73;&#x65;&#x72;&#x20;&#x53;&#x74;&#x72;&#x61;&#xDF;&#x65;&#x20;&#x32;&#x30;  
+&#xA;&#x32;&#x38;&#x33;&#x32;&#x35;&#x20;&#x42;&#x72;&#x65;&#x6D;&#x65;&#x6E;  
+&#x47;&#x65;&#x72;&#x6D;&#x61;&#x6E;&#x79;  
+E-Mail-Address: <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#100;&#115;&#116;&#117;&#109;&#109;&#57;&#53;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">&#100;&#115;&#116;&#117;&#109;&#109;&#57;&#53;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</a>
 
-## Comments
-The comments on this website are implemented with DISQUS. DISQUS allows a login even through an own DISQUS user account or with an existing account on Facebook, Twitter or Google Plus. If you login to DISQUS on my website with an account of the social media offers, these service providers will collect and process information about the usage of DISQUS. More detailed information can be found in the Privacy Policy of the respective service provider.
+If you contact me by e-mail, the data you provide will be stored by me in order to process your request.
 
-DISQUS delivers the E-Mail account of the user and the IP-Address, which was used during the input of a comment, to me. I need these informations only for the purpose of the contact in connection with your usage of DISQUS. A unpermitted disclosure to third parties does not take place. More detailed informations can be found in the Privacy Policy of DISQUS, which you can get here: [DISQUS Privacy Policy](https://help.disqus.com/customer/portal/articles/466259-privacy-policy)
-{: .new_section}
+The processed data includes
+- Your name
+- your e-mail address
+- and, if applicable, your telephone number
 
-## Search
-The search for page content is implementet by Algolia. Searchrequests are delivered with immediate visual feedback and typo-tolerance. Therefore, this service has access to the in the browser entered searchrequests. As a minimum the IP-Address of the browser of the device of the user of this website will be persisted. More detailed information can be found in the Privacy Policy of Algolia, which can be found here: [Algolia Privacy Policy](https://www.algolia.com/policies/privacy)
-{: .new_section}
+I will delete the data as soon as storage is no longer necessary or restrict processing if there are statutory retention obligations.
 
-## Social Plugins
-I offer you on my website the possibility to use so-called "Social-Meida-Buttons". For protection of your data I use in the implementation the solution "Shariff". Thus, these buttons are embedded just as images, which contains a link to the appropriate website of the button provider. You will be forwarded to the services, by clicking on the image. Only then your data will be transmitted to the appropriate provider. Unless you click on the image, no transfer between you and the provider of the "Social-Media-Buttons" will be executed. Informations about the inquiry of your data in the social networks can you find in the appropriate Terms of Use of the appropriate provider. More detialed information about the solution "Shariff" can be found [here (only in German)](http://www.heise.de/ct/artikel/Shariff-Social-Media-Buttons-mit-Datenschutz-2467514.html).
-On my website I have embedded the "Social-Media-Buttons" of the following companies:
+## Rights of data subjects
+As a data subject, you have the right to information, the right to rectification or erasure, the right to restriction of processing and the right to object to the processing of your data. If you have given me your consent, you can revoke it at any time with effect for the future.
 
-Facebook Inc. (1601 Willow Road - Menlo Park - CA 94025 - USA)<br>
-Twitter Inc. (1355 Market Street - Suite 900 - San Francisco - CA 94103 - USA)<br>
-Google Plus/Google Inc. (1600 Amphitheatre Parkway - Mountain View - CA 94043 - USA)<br>
-XING AG (Dammtorstraße 30 - 20354 Hamburg - Germany)<br>
-LinkedIn Corporation (2029 Stierlin Court - Mountain View - CA 94043 - USA)<br>
-Telegram Messenger LLP (71-75 Shelton Street - Covent Garden - London - United Kingdom)<br>
-OOO VKontakte (Nevsky pr. 28 - 191186 Sankt-Peterburg - Russia)
-{: .new_section}
+Please send your objection or revocation informally to the above address.
 
-## Your rights to information, correction, lock, deletion and objection
-You have the right, to get everytime information about your personal data that I have saved. Furthermore, you have the right for correction, lock or, with the exception of legally required data storage for business processes, deletion your personal data. Therefore please contact me.
+You also have the right to data portability. You also have the right to complain to a supervisory authority about the processing. You can find a list of the relevant authorities at [https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html](https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html).
 
-For monitoring purposes it is necessary to save personal data in a blacklist, to take a lock of personal data in account. Unless legal storage obligations exists, you also can require a deletion of personal data. I will lock your personal data on request, insofar as a legal storage obligation exists.
-You can perform with future effect changes or repeal of a consent through a notification to me.
-{: .new_section}
+## Hosting
+My host collects the following data that your browser transmits in log files:
+
+IP address, the address of the previously visited website (referrer request header), date and time of the request, time zone difference to Greenwich Mean Time, content of the request, HTTP status code, amount of data transferred, website from which the request comes and information about the browser and operating system.
+
+This is necessary to display my website and to ensure stability and security. This corresponds to my legitimate interest within the meaning of Art. 6 para. 1 sentence 1 lit. f GDPR.
+
+There is no tracking and I have no direct access to this data.
+
+I use the following hoster for the provision of my website:
+
+GitHub Inc.  
+88 Colin P Kelly Jr St  
+San Francisco, CA 94107  
+United States  
+
+This is the recipient of your personal data. This corresponds to my legitimate interest within the meaning of Art. 6 para. 1 sentence 1 lit. f GDPR in not having to maintain a server on my premises. Server location is USA.
+
+Further information on objection and removal options vis-à-vis GitHub can be found at: [https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement#github-pages](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement#github-pages)
+
+You have the right to object to the processing. Whether the objection is successful must be determined as part of a balancing of interests.
+
+The data will be deleted as soon as the purpose of the processing no longer applies.
+
+The processing of the data specified in this section is not required by law or contract. The functionality of the website is not guaranteed without the processing.
+
+GitHub has implemented compliance measures for international data transfers. These apply to all global activities where GitHub processes personal data of natural persons in the EU. These measures are based on the EU Standard Contractual Clauses (SCCs). Further information can be found at: [https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-data-protection-addendum#attachment-1-the-standard-contractual-clauses-processors](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-data-protection-addendum#attachment-1-the-standard-contractual-clauses-processors)
+
+## Social plugins
+I offer you the option of using so-called “social media buttons” on my website. To protect your data, I use the “Shariff” solution for implementation. This means that these buttons are only integrated on the website as a graphic that contains a link to the corresponding website of the button provider. By clicking on the graphic, you will be redirected to the services of the respective provider. Only then will your data be sent to the respective provider. If you do not click on the graphic, there will be no exchange between you and the providers of the social media buttons. Information about the collection and use of your data in the social networks can be found in the respective terms of use of the corresponding providers. You can find more information about the Shariff solution at [http://www.heise.de/ct/artikel/Shariff-Social-Media-Buttons-mit-Datenschutz-2467514.html](http://www.heise.de/ct/artikel/Shariff-Social-Media-Buttons-mit-Datenschutz-2467514.html).  
+
+Service provider:  
+Heise Medien GmbH & Co. KG  
+Karl-Wiechert-Allee 10  
+30625 Hanover  
+Germany  
+
+Legal basis: Legitimate interests (Art. 6 para. 1 sentence 1 lit. f) GDPR)  
+Website: [https://www.heise.de/ct/artikel/Shariff-Social-Media-Buttons-mit-Datenschutz-2467514.html](https://www.heise.de/ct/artikel/Shariff-Social-Media-Buttons-mit-Datenschutz-2467514.html).  
+Privacy policy: [https://www.heise.de/Datenschutzerklaerung-der-Heise-Medien-GmbH-Co-KG-4860.html](https://www.heise.de/Datenschutzerklaerung-der-Heise-Medien-GmbH-Co-KG-4860.html).  
 
 ## Modification of my Privacy Policy
 I reserve the right to adapt this Privacy Policy occasionally, so that it continually meets the current legal requirements or add changes in my offer to this Privacy Policy (e.g. on introduction of new services). For your next visit the new Privacy Policy will apply.

@@ -1,36 +1,35 @@
 # Impressum
-## Angaben gemäß § 5 TMG:
-Dennis Stumm  
-Pirmasenser Straße 20  
-28325 Bremen
+## Diensteanbieter
+&#x44;&#x65;&#x6E;&#x6E;&#x69;&#x73;&#x20;&#x53;&#x74;&#x75;&#x6D;&#x6D;  
+&#xA;&#x50;&#x69;&#x72;&#x6D;&#x61;&#x73;&#x65;&#x6E;&#x73;&#x65;&#x72;&#x20;&#x53;&#x74;&#x72;&#x61;&#xDF;&#x65;&#x20;&#x32;&#x30;  
+&#xA;&#x32;&#x38;&#x33;&#x32;&#x35;&#x20;&#x42;&#x72;&#x65;&#x6D;&#x65;&#x6E;  
+&#xA;&#x44;&#x65;&#x75;&#x74;&#x73;&#x63;&#x68;&#x6C;&#x61;&#x6E;&#x64;  
 
-Tel. &#43;&#52;&#57;&#49;&#54;&#51;&#53;&#56;&#57;&#53;&#52;&#57;&#52;
-[https://dsst95.github.io](https://dsst95.github.io)  
-<a href='ma&#105;lt&#111;&#58;d%7&#51;&#116;um%6D&#64;y%61%&#54;&#69;d&#37;65x&#46;r&#117;'>&#100;st&#117;mm&#64;&#121;andex&#46;&#114;u</a>{: .new_section}
+## Kontaktmöglichkeiten
+Tel.: &#43;&#52;&#57;&#49;&#53;&#53;&#54;&#54;&#49;&#49;&#53;&#52;&#55;&#54;  
+Internet: [https://dsst95.github.io](https://dsst95.github.io)  
+E-Mail-Adresse: <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#100;&#115;&#116;&#117;&#109;&#109;&#57;&#53;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">&#100;&#115;&#116;&#117;&#109;&#109;&#57;&#53;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</a>
 
+## Journalistisch-redaktionelle Angebote
+&#x44;&#x65;&#x6E;&#x6E;&#x69;&#x73;&#x20;&#x53;&#x74;&#x75;&#x6D;&#x6D;  
+&#xA;&#x50;&#x69;&#x72;&#x6D;&#x61;&#x73;&#x65;&#x6E;&#x73;&#x65;&#x72;&#x20;&#x53;&#x74;&#x72;&#x61;&#xDF;&#x65;&#x20;&#x32;&#x30;  
+&#xA;&#x32;&#x38;&#x33;&#x32;&#x35;&#x20;&#x42;&#x72;&#x65;&#x6D;&#x65;&#x6E;  
+&#xA;&#x44;&#x65;&#x75;&#x74;&#x73;&#x63;&#x68;&#x6C;&#x61;&#x6E;&#x64;  
 
-## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
-Dennis Stumm  
-Pirmasenser Straße 20  
-28325 Bremen
-{: .new_section}
+## Vorbehalt der Nutzung für Text und Data Mining
+Der Inhaber dieser Website gestattet die Nutzung oder das Herunterladen von Inhalten dieser Website durch Dritte für die Entwicklung, das Training oder den Betrieb von künstlicher Intelligenz oder anderen maschinellen Lernsystemen ("Text und Data Mining") ausschließlich mit ausdrücklicher schriftlicher Zustimmung des Inhabers. Ohne eine solche Zustimmung ist es untersagt, die Inhalte für Text und Data Mining zu verwenden. Dies gilt auch, wenn auf der Website keine Meta-Angaben vorhanden sind, die entsprechende Verfahren aussperren, und selbst dann, wenn Bots, die den Zweck haben, die Website zu Zwecken des Text und Data Mining auszulesen, nicht ausgesperrt werden.
 
+## Haftungs- und Schutzrechtshinweise
+### Haftungsausschluss
+Die Inhalte dieses Onlineangebotes wurden sorgfältig und nach meinen aktuellen Kenntnisstand erstellt, dienen jedoch nur der Information und entfalten keine rechtlich bindende Wirkung, sofern es sich nicht um gesetzlich verpflichtende Informationen (z. B. das Impressum, die Datenschutzerklärung, AGB oder verpflichtende Belehrungen von Verbrauchern) handelt. Ich behalte mir vor, die Inhalte vollständig oder teilweise zu ändern oder zu löschen, soweit vertragliche Verpflichtungen unberührt bleiben. Alle Angebote sind freibleibend und unverbindlich.  
 
-# Haftungsausschluss (Disclaimer)
-## Haftung für Inhalte
-Als Diensteanbieter bin ich gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG bin ich als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.
+### Links auf fremde Webseiten
+Die Inhalte fremder Webseiten, auf die ich direkt oder indirekt verweise, liegen außerhalb meines Verantwortungsbereiches und ich mache sie mir nicht zu Eigen. Für alle Inhalte und Nachteile, die aus der Nutzung der in den verlinkten Webseiten aufrufbaren Informationen entstehen, übernehme ich keine Verantwortung.  
 
-Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werde ich diese Inhalte umgehend entfernen.
-{: .new_section}
+### Urheberrechte und Markenrechte
+Alle auf dieser Website dargestellten Inhalte, wie Texte, Fotografien, Grafiken, Marken und Warenzeichen sind durch die jeweiligen Schutzrechte (Urheberrechte, Markenrechte) geschützt. Die Verwendung, Vervielfältigung usw. unterliegen meinen Rechten oder den Rechten der jeweiligen Urheber bzw. Rechteinhaber.  
 
-## Haftung für Links
-Mein Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte ich keinen Einfluss habe. Deshalb kann ich für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar.
+## Hinweise auf Rechtsverstöße
+Sollten Sie innerhalb meines Internetauftritts Rechtsverstöße bemerken, bitte ich Sie mich auf diese hinzuweisen. Ich werde rechtswidrige Inhalte und Links nach Kenntnisnahme unverzüglich entfernen.  
 
-Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werde ich derartige Links umgehend entfernen.
-{: .new_section}
-
-## Urheberrecht
-Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.
-
-Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitte ich um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werde ich derartige Inhalte umgehend entfernen.
-{: .new_section}
+<a href="https://datenschutz-generator.de/" title="Rechtstext von Dr. Schwenke - für weitere Informationen bitte anklicken." target="_blank" rel="noopener noreferrer nofollow">Erstellt mit kostenlosem Datenschutz-Generator.de von Dr. Thomas Schwenke</a>

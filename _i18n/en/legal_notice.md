@@ -1,36 +1,35 @@
 # Legal Notice
-## Information according to § 5 TMG:
-Dennis Stumm  
-Pirmasenser Straße 20  
-28325 Bremen
+## Service provider
+&#x44;&#x65;&#x6E;&#x6E;&#x69;&#x73;&#x20;&#x53;&#x74;&#x75;&#x6D;&#x6D;  
+&#xA;&#x50;&#x69;&#x72;&#x6D;&#x61;&#x73;&#x65;&#x6E;&#x73;&#x65;&#x72;&#x20;&#x53;&#x74;&#x72;&#x61;&#xDF;&#x65;&#x20;&#x32;&#x30;  
+&#xA;&#x32;&#x38;&#x33;&#x32;&#x35;&#x20;&#x42;&#x72;&#x65;&#x6D;&#x65;&#x6E;  
+&#x47;&#x65;&#x72;&#x6D;&#x61;&#x6E;&#x79;  
 
-Tel. &#43;&#52;&#57;&#49;&#54;&#51;&#53;&#56;&#57;&#53;&#52;&#57;&#52;
-[https://dsst95.github.io](https://dsst95.github.io)  
-<a href='ma&#105;lt&#111;&#58;d%7&#51;&#116;um%6D&#64;y%61%&#54;&#69;d&#37;65x&#46;r&#117;'>&#100;st&#117;mm&#64;&#121;andex&#46;&#114;u</a>{: .new_section}
+## Contact options
+Tel.: &#43;&#52;&#57;&#49;&#53;&#53;&#54;&#54;&#49;&#49;&#53;&#52;&#55;&#54;  
+Internet: [https://dsst95.github.io](https://dsst95.github.io)  
+E-Mail-Address: <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#100;&#115;&#116;&#117;&#109;&#109;&#57;&#53;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">&#100;&#115;&#116;&#117;&#109;&#109;&#57;&#53;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</a>
 
+## Journalistic-editorial offers
+&#x44;&#x65;&#x6E;&#x6E;&#x69;&#x73;&#x20;&#x53;&#x74;&#x75;&#x6D;&#x6D;  
+&#xA;&#x50;&#x69;&#x72;&#x6D;&#x61;&#x73;&#x65;&#x6E;&#x73;&#x65;&#x72;&#x20;&#x53;&#x74;&#x72;&#x61;&#xDF;&#x65;&#x20;&#x32;&#x30;  
+&#xA;&#x32;&#x38;&#x33;&#x32;&#x35;&#x20;&#x42;&#x72;&#x65;&#x6D;&#x65;&#x6E;  
+&#x47;&#x65;&#x72;&#x6D;&#x61;&#x6E;&#x79;  
 
-## Responsibly for the contents in accordance with § 55 paragraph 2 RStV:
-Dennis Stumm  
-Pirmasenser Straße 20  
-28325 Bremen
-{: .new_section}
+## Reservation of use for text and data mining
+The owner of this website permits the use or downloading of content from this website by third parties for the development, training or operation of artificial intelligence or other machine learning systems (“text and data mining”) only with the express written consent of the owner. Without such consent, it is prohibited to use the content for text and data mining. This also applies if there is no meta information on the website that blocks such procedures, and even if bots that have the purpose of reading the website for the purposes of text and data mining are not blocked.
 
+## Liability and intellectual property rights
+### Exclusion of liability (Disclaimer)
+The contents of this online offer have been created carefully and according to my current state of knowledge, but are for information purposes only and have no legally binding effect, unless it is legally binding information (e.g. the imprint, the privacy policy, terms and conditions or mandatory instructions for consumers). I reserve the right to change or delete the content in whole or in part, insofar as contractual obligations remain unaffected. All offers are subject to change and non-binding.  
 
-# Exclusion of liability (Disclaimer)
-## Liability for the contents
-As a service provider I am responsible in accordance with § 7 paragraph 1 of TMG for own contents on these pages under the general laws. Pursuant §§ 8 through 10 TMG I am not responsible as a service provider to monitor transferred or stored information of third parties or research circumstances that suggest an illegal activity.
+### Liability for the links
+The contents of external websites to which I refer directly or indirectly are outside my area of responsibility and I do not adopt them as my own. I accept no responsibility for any content or disadvantages arising from the use of the information available on the linked websites.  
 
-Obligations for the removal or barring of the use of information in accordance with the general laws remain unaffected. Any liability in this respect is, however, only incurred from the moment that knowledge of the specific breach of law is obtained. Once I become aware of such legal violations I shall remove the respective contents immediately.
-{: .new_section}
+### Copyrights and trademark rights
+All content presented on this website, such as texts, photos, graphics, brands and trademarks are protected by the respective intellectual property rights (copyrights, trademark rights). The use, reproduction etc. is subject to my rights or the rights of the respective authors or rights holders.
 
-## Liability for the links
-My offer contains links to external websites of third parties, whose contents I have no influence. Therefore I shall not be made liable for these contents. For the contents of linked websites always the respective offerer or operator of such sites is liable. The linked websites were checked for possible legal violations at the time of linking. Illegal contents were not recognizable at the time of linking.
+## Information on legal violations
+If you notice any legal violations on my website, please let me know. I will remove illegal content and links as soon as I become aware of them.  
 
-A permanent control of the contents of the linked websites is not reasonable without specific indication for infringements. If such infringements of the law become known I will remove such links immediately.
-{: .new_section}
-
-## Copyright
-The contents and works created by the site owner and that are displayed on this website are subject to German copyright law. The copying, modification, distribution and any type of use beyond what is permitted by the copyright requires the wirtten approval of the particular author or creator. Downloads and copies of this website are only permitted for the private, not commercial use.
-
-Insofar as the contents of this website are not created by the site owner, the copyrights of third parties will be respected. Especially, contents of third parties will be identified as such. If you notice a copyright infringement, I ask to be notified in this regard. As soon as I become aware of a legal violation I will remove such contents immediately.
-{: .new_section}
+<a href="https://datenschutz-generator.de/" title="Legal text by Dr. Schwenke - please click for further information." target="_blank" rel="noopener noreferrer nofollow">Created with free Datenschutz-Generator.de by Dr. Thomas Schwenke</a>
