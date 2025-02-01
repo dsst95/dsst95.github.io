@@ -10,6 +10,7 @@ plugins:
 languages: ["de", "ru", "en"]
 exclude_from_localizations: ["css", "robots.txt", "404.md"]
 baseurl: ""
+repository: dsst95
 
 languages_list:
   de: Deutsch
@@ -22,7 +23,3 @@ defaults:
       path: ""
     values:
       layout: "default"
-
-projects:
-  - 
-  
