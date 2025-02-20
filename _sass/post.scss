@@ -1,0 +1,50 @@
+@use "variables";
+
+main.post {
+  h1 {
+    margin: 0;
+  }
+
+  .post-categories-author {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: .75rem;
+
+    .post-author-date {
+      color: variables.$other-color-1;
+      align-items: center;
+      display: flex;
+  
+      .avatar {
+        margin-right: 5px;
+      }
+    }
+  
+    .post-categories {
+      margin-top: .5rem;
+      display: flex;
+      flex-wrap: wrap;
+  
+      .post-category {
+        border: 0.1rem solid #ababab;
+        color: #ababab;
+        border-radius: 0.5rem;
+        padding: 0.15rem;
+        margin: .5rem .5rem .5rem 0;
+        width: fit-content;
+      }
+    }
+  }
+
+  .post-excerpt {
+    border-top: 0.1rem solid;
+    font-style: italic;
+    padding-top: .75rem;
+    margin-bottom: .75rem;
+  }
+
+  .post-image {
+    margin-bottom: .75rem;
+  }
+}

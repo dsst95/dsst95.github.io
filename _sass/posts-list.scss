@@ -41,7 +41,7 @@
       overflow: hidden;
       text-overflow: ellipsis;
       display: block;
-      max-height: 3em;
+      height: 3em;
       line-height: 1.5em;
       display: -webkit-box;
       -webkit-box-orient: vertical;
@@ -67,7 +67,7 @@
     }
 
     .post-text {
-      margin: 0 1rem 2rem 1rem;
+      margin: 0 1rem 1rem 1rem;
       font-size: 1rem;
       overflow: hidden;
       text-overflow: ellipsis;
@@ -75,8 +75,23 @@
       line-height: 1.5em;
       display: -webkit-box;
       -webkit-box-orient: vertical;
-      -webkit-line-clamp: 4;
+      -webkit-line-clamp: 5;
       flex-grow: 1;
+    }
+
+    @media (max-width: 600px) {
+      width: 100%;
+      margin: 0;
+      margin-bottom: 15px;
+
+      .post-title {
+        margin-bottom: 1rem;
+        -webkit-line-clamp: none;
+      }
+
+      .post-text {
+        -webkit-line-clamp: none;
+      }
     }
   }
 }

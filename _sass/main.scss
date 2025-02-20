@@ -6,9 +6,10 @@
 @use "posts-list";
 @use "pagination";
 @use "shariff";
+@use "post";
 
 :not(.not-found) > * > main {
-  max-width: 1600px;
+  max-width: 1200px;
   width: 100%;
   margin: 0 auto;
 
@@ -19,5 +20,9 @@
     -ms-hyphens: auto;
     -webkit-hyphens: auto;
     -moz-hyphens: auto;
+  }
+
+  img {
+    max-width: 100%;
   }
 }

@@ -9,7 +9,11 @@ pagination:
   {% for post in site.posts %}
     <a href="{{ post.url }}">
     <div class="post">
-      <img src="/assets/images/NoImage.webp" class="post-figure" />
+    {% if post.image != "" %}
+      <img src="{% link {{ post.image }} %}" class="post-figure" />
+    {% else %}
+      <img src="{% link /assets/images/NoImage.webp %}" class="post-figure" />
+    {% endif %}
       <div class="post-title" title="{{ post.title }}">{{ post.title }}</div>
       <div class="post-text" title="{{ post.excerpt }}">{{ post.excerpt }}</div>
       <div class="post-footer">

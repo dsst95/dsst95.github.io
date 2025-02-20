@@ -1,12 +1,35 @@
-
 .post-shariff-wrapper {
   display: flex;
   flex-direction: row;
-  max-width: 1450px;
+  max-width: 1250px;
   margin: 0 auto;
 
   .shariff {
     flex-grow: 0;
-    margin: 25px;
+    margin: 0 25px 25px;
+
+    .fab {
+      min-width: 35px;
+      width: fit-content;
+    }
+  }
+
+  @media (max-width: 760px) {
+    flex-direction: column;
+
+    .shariff {
+      margin: 0;
+
+      ul {
+        display: flex;
+        flex-wrap: wrap;
+
+        li {
+          margin: 5px 5px;
+          min-width: 35px;
+          width: fit-content;
+        }
+      }
+    }
   }
 }

@@ -10,11 +10,31 @@
     <div
       class="shariff"
       data-lang="{{ page.lang }}"
-      data-services="['facebook','linkedin','pocket','reddit','telegram','threema','vk','whatsapp','xing']"
+      data-services="['facebook',vk','xing','linkedin','pocket','reddit','telegram','threema',''whatsapp']"
       data-button-style="icon"
       data-orientation="vertical">
     </div>
-    {% include main.html %}
+    <main class="post">
+      <h1>{{ page.title }}</h1>
+
+      <div class="post-categories-author">
+        <div class="post-categories">
+          {% for category in page.categories %}
+          <div class="post-category">{{ category }}</div>
+          {% endfor %}
+        </div>
+
+        <div class="post-author-date">{% avatar dsst95 size=25 %} {% t common.name %} • {{ page.date | date_to_string }}</div>
+      </div>
+
+      <div class="post-excerpt">{{ page.excerpt }}</div>
+
+      {% if page.image != "" %}
+        <img src="{% link {{ page.image }} %}" class="post-image" />
+      {% endif %}
+      
+      {{ content }}
+    </main>
   </div>
   {% include footer.html %}
   <script src="/assets/plugins/shariff/shariff.complete.js"></script>
