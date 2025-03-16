@@ -1,6 +1,6 @@
 ---
 title: pages.projects
-permalink: /projects/
+permalink: /
 pagination:
   enabled: true
 repos: ["PILOS", "STM32-Getting-Started", "Vulnerable-Server", "ADC_EMBS_WS2019-20_Stumm_5217157", "R-cluster

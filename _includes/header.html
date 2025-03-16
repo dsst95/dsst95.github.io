@@ -1,10 +1,10 @@
 <header>
   {% include logo.html %}
   <nav id="mainNav">
-    <a href="{{ '/' | prepend: site.baseurl }}" class="{% if page.permalink == '/' or page.permalink contains '/posts' %}active{% endif %}">
+    <!-- <a href="{{ '/' | prepend: site.baseurl }}" class="{% if page.permalink == '/' or page.permalink contains '/posts' %}active{% endif %}">
       {% t pages.blog %}
-    </a>
-    <a href="{{ '/projects' | prepend: site.baseurl }}" class="{% if page.permalink == '/projects/' %}active{% endif %}">
+    </a> -->
+    <a href="{{ '/' | prepend: site.baseurl }}" class="{% if page.permalink == '/' %}active{% endif %}">
       {% t pages.projects %}
     </a>
     <a href="javascript:void(0);" onclick="toggleNavMenu()" class="expand-menu-icon">&#9776;</a>
